@@ -1,46 +1,64 @@
-# React Native - Food Delivery App
+# React Native Food Delivery App
 
-The Food Delivery App is created using [**React Native**](https://reactnative.dev 'Cross Platform Mobile Application Development Framework') with support of few other popular third party libraries like [**React Navigation**](https://reactnavigation.org 'For Screen Navigations'), [**Axios**](https://axios-http.com 'For HTTP Requests') etc.
+Welcome to the React Native Food Delivery App documentation! This app is designed to provide users with a seamless food ordering experience, leveraging the power of React Native and several popular third-party libraries.
+
+## Features
+
+- Cross-platform compatibility using React Native
+- Smooth screen navigation with React Navigation
+- Efficient HTTP requests with Axios
+- Rich collection of icons and illustrations from various libraries
+- State management using Redux and Redux Thunk
+- Local storage support with React Native Async Storage
+- Interactive maps integration with React Native Maps
 
 ## Icon Libraries
 
-- [Country Flags](https://www.countryflags.io 'For All Countries Flags')
-- [Icons8](https://icons8.com 'For Icons')
-- [Lottie Files (Animated Icons)](https://lottiefiles.com 'For Animated Icons')
-- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons 'For Icons')
-- [Undraw](https://undraw.co 'For illustrations')
+Enhance your app's visual appeal with icons and illustrations from the following libraries:
+
+- [Country Flags](https://www.countryflags.io): Access flags of all countries
+- [Icons8](https://icons8.com): A diverse collection of icons
+- [Lottie Files (Animated Icons)](https://lottiefiles.com): Animated icons to make your app dynamic
+- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons): Popular icon library for React Native
+- [Undraw](https://undraw.co): Beautiful illustrations to complement your design
 
 ## Dependencies
 
-- [React Navigation](https://reactnavigation.org 'For Screen Navigations')
-  - [Stack Navigator](https://reactnavigation.org/docs/stack-navigator 'Stack Navigator')
-  - [Bottom Tab Navigator](https://reactnavigation.org/docs/bottom-tab-navigator 'Bottom Tab Navigator')
-- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons 'Popular React Native Icon Library')
-- [Lottie React Native](https://github.com/lottie-react-native/lottie-react-native 'For Animated Icons')
-- [Axios](https://axios-http.com 'For HTTP Requests')
-- [React Native Async Storage](https://react-native-async-storage.github.io/async-storage 'For Local Storage')
-- [Redux](https://redux.js.org 'For State Management')
-- [React Redux](https://react-redux.js.org 'For State Management in React')
-- [Redux Thunk](https://github.com/reduxjs/redux-thunk 'Redux Thunk for Async State Management')
-- [React Native Maps](https://github.com/react-native-maps/react-native-maps 'For Maps')
+Ensure smooth functionality of your app with these essential dependencies:
 
-## UI Design
-[**Food Door App** by *Ahmed El-okle*](https://www.behance.net/gallery/104564545/Food-Door-app?tracking_source=search_projects_recommended%7Cfood%20delivery%20mobile%20app)
+- [React Navigation](https://reactnavigation.org): Streamlined screen navigation
+- [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons): Access a wide range of icons
+- [Lottie React Native](https://github.com/lottie-react-native/lottie-react-native): Incorporate animated icons into your app
+- [Axios](https://axios-http.com): Reliable HTTP requests handling
+- [React Native Async Storage](https://react-native-async-storage.github.io/async-storage): Manage local storage efficiently
+- [Redux](https://redux.js.org): Robust state management
+- [React Redux](https://react-redux.js.org): Integrating Redux with React
+- [Redux Thunk](https://github.com/reduxjs/redux-thunk): Asynchronous state management for Redux
+- [React Native Maps](https://github.com/react-native-maps/react-native-maps): Integrate maps seamlessly into your app
 
-## Setup instructions
+## UI Design Inspiration
 
-### 1. Clone Repository
+Check out the UI design inspiration behind the app:
+
+- [Food Door App by Ahmed El-okle](https://www.behance.net/gallery/104564545/Food-Door-app?tracking_source=search_projects_recommended%7Cfood%20delivery%20mobile%20app)
+
+## Getting Started
+
+Follow these steps to set up the app on your local machine:
+
+### 1. Clone the Repository
 
 ```sh
-# Clone the app
 git clone https://github.com/ameenfarook/food_delivery_app.git
 ```
 
-### 2. Install all dependencies
+### 2. Install Dependencies
+
+Navigate to the app directory and install all necessary dependencies:
 
 ```sh
-# navigate to app directory
 cd food_delivery_app
-
 npm install
 ```
+
+You're all set! Happy coding and enjoy building your React Native Food Delivery App.
